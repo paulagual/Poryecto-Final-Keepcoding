@@ -4,7 +4,7 @@
  
 ## Arquitectura y Validación de datos
  
-## Anñalisis Exploratorio 
+## Analisis Exploratorio 
  
 ## Visualización de las métricas
  

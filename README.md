@@ -10,7 +10,9 @@ Durante la exploración inicial de los datos recabamos la información necesaria
 
 En la definición de atributos, decidimos desglosar la información en cuatro grupos relevantes para nuestro análisis: la propiedad, englobando toda la información directamente relacionada con ésta; el host, para poder analizar lo relativo a los propietarios y sus características; el tipo de propiedad y sus características; y la localización.
 
-Una vez obtenido el esquema inicial nos pusimos manos a la obra para plasmarlo en la base de datos. Primero, creando las tablas que formarían el Data Warehouse tal y como estaba diseñado en el modelo. Y, posteriormente, resolviendo el escollo de la importación de datos a cada una de las tablas desde el dataset original. 
+Una vez obtenido el esquema inicial nos pusimos manos a la obra para plasmarlo en la base de datos. Primero, creando las tablas que formarían el Data Warehouse tal y como estaba diseñado en el modelo. Y, posteriormente, resolviendo el escollo de la importación de datos a cada una de las tablas desde el dataset original.
+
+![Esquema SQL](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/Esquema-SQL.png?raw=true)
 
 ## Analisis Exploratorio 
  

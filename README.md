@@ -68,3 +68,6 @@ R2:0,520
 
 
 ## Conclusiones
+
+Hemos conseguido crear un modelo de predicción con los parámetros dados y creados. El objetivo de este modelo es el de predecir a qué precio pueden poner la noche los anfitriones en AirBnB y después de hacer el trabajo de análisis de los datos podemos concluir que una aplicación de estos podría ser la de crear una web accesible para todos los futuros anfitriones y posibles clientes donde pudiesen ver cómo estimar el precio de una noche en el apartamento en qué viven.
+

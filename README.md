@@ -3,8 +3,6 @@ Sep-Feb 2023
 
 Grupo Globo-Data: Maria Aguilà, Alba Abaurrea, Maria Gimenez, Judit Gómez y Paula Gual
 
-![Memoria Proyecto](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/Memoria Proyecto Grupo Globo-Data - Keepcoding - Women in Tech (1))
- 
 ## Introducción
 
 En base al data set inicial, nuestro objetivo principal era resolver la pregunta de aquellos propietarios madrileños que quieren publicar sus inmuebles o estancias en Airbnb:

@@ -22,7 +22,7 @@ Se han limpiado los datos, y posteriormente analizado las columnas más relevant
 
 Además se han estudiado las diferentes palabras contenidas en los anuncios de los alojamientos, tanto las más caras, como las más baratas, lo que nos puede dar una idea de su influencia en el precio.
 
-
+![Wordcloud](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/wordcloud.png?raw=true)
  
 ## Visualización de las métricas
  

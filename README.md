@@ -56,7 +56,7 @@ RMSE: 38,77
 
 R2:0,520
 
-![Residuals final model](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/residuals-reduced-model.png?raw=true)
+![Residuals final model ](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/residuals-reduced-model.png?raw=true)
 
 
 ## Conclusiones

@@ -71,12 +71,19 @@ R2:0,520
 ## Conclusiones
 
 En este punto del proyecto, hemos creado un datawarehouse con los datos, analizado las variables disponibles, creando las visualizaciones necesarias para entender las variables tanto en sí mismas como relacionadas con las otras. Además de un dashboard que nos permite visualizar los KPIs y filtrar por diversos parámetros. 
+
 Además, hemos creado algunas variables adicionales desde las variables disponibles para ayudarnos en la predicción. Finalmente, hemos realizado varios modelos de predicción del Precio con una Regresión Lineal, quedándonos con un modelo que a su vez nos da un buen resultado y no tiene una gran complejidad.
+
 A partir de aquí, algunas cosas a realizar en el futuro podrían ser:
-incorporar nuevas columnas a partir de las que tenemos, por ejemplo analizar lo que aparece en las fotos a partir de la url de la misma
-incorporar nuevas columnas externas, por ejemplo, la distancia al metro más cercano desde el alojamiento, distancia a los principales museos o atracciones de madrid (estadios de fútbol, parques de atracciones) desde el alojamiento.
-crear modelos con otros algoritmos que se adapten mejor a la dispersión de precios: Ridge, Lasso, Elastic Net, RandomForest Regressor, SVR con parameter hypertunning.
+
+- incorporar nuevas columnas a partir de las que tenemos, por ejemplo analizar lo que aparece en las fotos a partir de la url de la misma
+
+- incorporar nuevas columnas externas, por ejemplo, la distancia al metro más cercano desde el alojamiento, distancia a los principales museos o atracciones de madrid (estadios de fútbol, parques de atracciones) desde el alojamiento.
+
+- crear modelos con otros algoritmos que se adapten mejor a la dispersión de precios: Ridge, Lasso, Elastic Net, RandomForest Regressor, SVR con parameter hypertunning.
+
 Con este modelo mejorado, se podría crear una web accesible para todos los futuros anfitriones y posibles clientes donde pudiesen ver cómo estimar el precio de una noche en el apartamento en qué viven. 
+
 De esta manera, ofrecemos un servicio de valor añadido que permitirá a los propietarios sacar el máximo rendimiento a sus propiedades o estancias en una de las webs de referencia para el alquiler vacacional de inmuebles.
 
 

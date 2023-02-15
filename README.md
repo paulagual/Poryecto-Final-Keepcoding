@@ -1,7 +1,8 @@
 # Proyecto Final eepconding - Glovo Women in Tech 
 Sep-Feb 2023
 
-Grupo Globo-Data: Judit Gómez, Maria Gimenez, MariaAguila, Alba Albaurrea, Paula Gual
+Grupo Globo-Data: Maria Aguilà, Alba Abaurrea, Maria Gimenez, Judit Gómez y Paula Gual
+
  
 ## Introducción
 

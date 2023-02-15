@@ -1,4 +1,4 @@
-# Proyecto Final eepconding - Glovo Women in Tech 
+# Proyecto Final Keepconding - Glovo Women in Tech 
 Sep-Feb 2023
 
 Grupo Globo-Data: Maria Aguilà, Alba Abaurrea, Maria Gimenez, Judit Gómez y Paula Gual

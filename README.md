@@ -6,10 +6,12 @@ Grupo Globo-Data: Judit Gómez, Maria Gimenez, MariaAguila, Alba Albaurrea, Paul
 ## Introducción
 
 En base al data set inicial, nuestro objetivo principal era resolver la pregunta de aquellos propietarios madrileños que quieren publicar sus inmuebles o estancias en Airbnb:
-**¿Qué precio debo ponerle a mi publicación?**
-Para ello, realizaremos una exploración inicial de los datos, seguida de la creación e implementación del modelo entidad-relación para elaborar el Data Warehouse. Partiendo de este punto, a través de los datos nos pusimos manos a la obra para realizar un análisis detallado centrándonos en Madrid. 
-Finalmente, crearemos un modelo de predicción que permitirá fácilmente conocer el precio recomendado. Siempre teniendo en cuenta los factores estrechamente relacionados con el valor de mercado del inmueble, más allá de los precios en la ciudad. 
 
+**¿Qué precio debo ponerle a mi publicación?**
+
+Para ello, realizaremos una exploración inicial de los datos, seguida de la creación e implementación del modelo entidad-relación para elaborar el Data Warehouse. Partiendo de este punto, a través de los datos nos pusimos manos a la obra para realizar un análisis detallado centrándonos en Madrid. 
+
+Finalmente, crearemos un modelo de predicción que permitirá fácilmente conocer el precio recomendado. Siempre teniendo en cuenta los factores estrechamente relacionados con el valor de mercado del inmueble, más allá de los precios en la ciudad. 
 
 ## Arquitectura y Validación de datos
 Durante la exploración inicial de los datos recabamos la información necesaria para proceder al siguiente paso y empezar a perfilar lo que será el Data Warehouse.

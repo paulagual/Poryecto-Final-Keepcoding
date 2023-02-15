@@ -15,6 +15,14 @@ Una vez obtenido el esquema inicial nos pusimos manos a la obra para plasmarlo e
 ![Esquema SQL](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/Esquema-SQL.png?raw=true)
 
 ## Analisis Exploratorio 
+
+Este estudio tiene como finalidad principal realizar un análisis detallado de los alojamientos en Airbnb en la ubicación de Madrid. Se busca comprender de manera más profunda si existe alguna relación entre el precio de los alojamientos y diversos factores como, por ejemplo, la ubicación en un vecindario determinado, las características de los alojamientos, entre otros. Además, se pretende identificar patrones y tendencias en el comportamiento de los precios, para poder comprender mejor los aspectos que los influyen.
+
+Se han limpiado los datos, y posteriormente analizado las columnas más relevantes de las que contiene el dataset. 
+
+Además se han estudiado las diferentes palabras contenidas en los anuncios de los alojamientos, tanto las más caras, como las más baratas, lo que nos puede dar una idea de su influencia en el precio.
+
+
  
 ## Visualización de las métricas
  

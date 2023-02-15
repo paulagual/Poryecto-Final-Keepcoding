@@ -25,6 +25,12 @@ Además se han estudiado las diferentes palabras contenidas en los anuncios de l
 ![Wordcloud](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/wordcloud.png?raw=true)
  
 ## Visualización de las métricas
+
+El objetivo de este apartado es realizar un dashboard que permita al anfitrión una visualización sencilla de cómo está el mercado para poder posicionarse en él, tanto en precio como en tipo de habitación que desea ofrecer al inquilino.
+
+Para el Dashboard hemos creado diferentes vistas y filtros. En cuanto a vistas, vemos los nombres y precios de las distintas propiedades que cumplen los filtros, además de la situación en el mapa de dichos alojamientos y los tipos de propiedades de esos alojamientos. En cuanto a los filtros, podemos seleccionar el vecindario, el tipo de habitación y el rango de precios.
+
+![Dashboard](https://github.com/paulagual/Proyecto-Final-Keepcoding/blob/main/img/Dashboard.png?raw=true)
  
 ## Preproceso y Modelado
  
